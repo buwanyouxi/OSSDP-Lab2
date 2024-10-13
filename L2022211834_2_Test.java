@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
  * 2. 边界测试：测试字符串长度为1和最大长度的情况。
  * 3. 特殊情况：包含所有字母、所有相同字母、以及非字母字符等情况。
  */
-public class Solution2Test {
+public class L2022211834_2_Test {
 
     // 实例化被测试类
     private final Solution2 solution = new Solution2();
